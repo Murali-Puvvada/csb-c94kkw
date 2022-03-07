@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://murali-puvvada.github.io/csb-c94kkw/static/js/main.ce0d0c01.chunk.js",
+    "main.js.map": "https://murali-puvvada.github.io/csb-c94kkw/static/js/main.ce0d0c01.chunk.js.map",
+    "runtime-main.js": "https://murali-puvvada.github.io/csb-c94kkw/static/js/runtime-main.35fe43fe.js",
+    "runtime-main.js.map": "https://murali-puvvada.github.io/csb-c94kkw/static/js/runtime-main.35fe43fe.js.map",
+    "static/js/2.66788209.chunk.js": "https://murali-puvvada.github.io/csb-c94kkw/static/js/2.66788209.chunk.js",
+    "static/js/2.66788209.chunk.js.map": "https://murali-puvvada.github.io/csb-c94kkw/static/js/2.66788209.chunk.js.map",
+    "index.html": "https://murali-puvvada.github.io/csb-c94kkw/index.html",
+    "static/js/2.66788209.chunk.js.LICENSE.txt": "https://murali-puvvada.github.io/csb-c94kkw/static/js/2.66788209.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35fe43fe.js",
+    "static/js/2.66788209.chunk.js",
+    "static/js/main.ce0d0c01.chunk.js"
+  ]
+}
